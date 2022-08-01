@@ -1,0 +1,4 @@
+Terraform START : Ср 27 июл 2022 17:16:07 EEST
+Terraform END : Ср 27 июл 2022 17:16:21 EEST
+Terraform START : Пт 29 июл 2022 13:15:36 EEST
+Terraform END : Пт 29 июл 2022 13:15:49 EEST
